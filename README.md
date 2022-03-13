@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EvanHecht/Octo-Tower/blob/master/gif_vid.gif" alt="Gameplay Gif"/>
+  <img src="https://github.com/EvanHecht/Fight-Style/blob/master/gif_vid.gif" alt="Gameplay Gif"/>
 </p>
 <h1 align="center">Fight-Style</h1>
 
