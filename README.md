@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Fight-Style</h1>
 
-Fight Style is a fighting game I made that is best described as a mix between League of Legends &amp; Super Smash Bros. It features (only) local versus. The goal of the game is to KO the other player 3 times either by getting them to %500 or by filling up your kill bar and landing your fourth ability once it is filled. Everything except the sound and music was soley developed by me (Evan Hecht).
+Fight Style is a fighting game I made that is best described as a mix between League of Legends &amp; Super Smash Bros. It features (only) local versus. The goal of the game is to KO the other player 3 times either by getting them to 500% damage or by filling up your kill bar and landing your fourth ability once it is filled.
 
 CONTROLS  
 --------
